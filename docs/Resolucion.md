@@ -119,3 +119,11 @@ Este proyecto fue resuelto con foco en:
 - ♻️ Reproducibilidad y mantenimiento del entorno
 
 Las soluciones se adaptan a un entorno de datos real, priorizando la escalabilidad, legibilidad y rendimiento.
+
+---
+
+# DER en MIRO:
+
+Pueden ver en el siguiente enlace el DER realizado en MIRO:
+
+🔗 [Ver DER en Miro](https://miro.com/app/board/uXjVIzvsUlw=/?share_link_id=325692261536)
