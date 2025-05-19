@@ -74,7 +74,7 @@ CHALLENGE SQL MERCADO LIBRE/
 
 El Diagrama Entidad-Relación fue diseñado en Miro y está disponible en el siguiente enlace:
 
-🔗 [Ver DER en Miro](https://miro.com/app/board/uXxxxxx)
+🔗 [Ver DER en Miro](https://miro.com/app/board/uXjVIzvsUlw=/?share_link_id=325692261536)
 
 
 
